@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Mtvtr",
+  "version": "1.0.1",
+  "action": {
+    "default_icon": "gigachad.png",
+    "default_title": "Click me NOW!"
+  },
+  "description": "This be the first extension I make matey!",
+  "author": {
+    "email": "anirudh.duggal.ad.ad@gmail.com"
+  },
+  "icons": {
+    "128": "gigachad.png"
+  },
+  "incognito": "split",
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "host_permissions": [
+    "https://*/",
+    "https://apis.google.com/js/api.js"
+  ]
+}
