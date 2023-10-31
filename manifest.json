@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "name": "Mtvtr",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "action": {
     "default_icon": "gigachad.png",
     "default_title": "Click me NOW!"
   },
-  "description": "This be the first extension I make matey!",
+  "description": "An extension that will help you get out the dumps with the aid of music",
   "author": {
     "email": "anirudh.duggal.ad.ad@gmail.com"
   },
